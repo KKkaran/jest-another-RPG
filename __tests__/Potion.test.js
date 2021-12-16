@@ -1,5 +1,5 @@
 const Potion = require('../lib/Potion.js');
-//const Player = require()
+const Player = require()
 
 describe('creates a random potion object', () => {
   describe("potion test",()=>{
